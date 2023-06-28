@@ -1,6 +1,6 @@
 # Study Project: Profile Card Layout [Android Compose]
 
-This is a study project with the aim of learning and practicing building a Card layout on Android using Jetpack Compose. 
+This study project is to learn and practice building a Card layout on Android using Jetpack Compose. 
 <br>
 <br>
 ![image](https://github.com/Alvarenga-Dev/Profile-Card-Layout/assets/42894096/899a604a-f171-4b99-a63d-daf0b5c034f7)
