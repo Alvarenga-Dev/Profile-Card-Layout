@@ -16,6 +16,7 @@ The main learning objectives of this project are:
 - Learn to structure and organize a Card layout using Jetpack Compose.
 - Practice creating UI elements such as text, images, buttons, and spacing.
 - Explore styling and customizing Jetpack Compose components to create a visually appealing design.
+- Learning navigation with Compose.
 
 ## Resources Used
 The project was developed using the following tools and resources:
